@@ -1,4 +1,5 @@
 ### Hi there 👋
+ Blazetp is a senior software engineer specializing in front-end, WordPress, Blockchain technology, PHP, and JavaScript frameworks with more than eight years of professional experience spanning from the IT sector to digital advertising. He is passionate about applying top-end solutions and software engineering patterns in order to solve complex problems.
 
 <!--
 **Blazetp/Blazetp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
